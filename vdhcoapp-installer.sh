@@ -4,7 +4,7 @@ cd "$DIR"
 rm -r vdhcoapp-installer
 mkdir vdhcoapp-installer
 cd vdhcoapp-installer
-Download target for specification file of vdhcoapp
+#Download target for specification file of vdhcoapp
 echo Downloading specification file...
 sleep 1s
 wget https://github.com/DarkWav/Specfile-Cloud/raw/master/vdhcoapp.spec
