@@ -50,5 +50,5 @@ echo Installing...
 sleep 2s
 sudo rpm -e net.downloadhelper.coapp
 clear
-sudo rpm -ivh ${rpmfile}
+sudo rpm -ivh ${rpmfile} --nodeps
 echo Finished.
