@@ -7,7 +7,7 @@ cd vdhcoapp-installer
 #Download target for specification file of vdhcoapp
 echo Downloading specification file...
 sleep 1s
-wget https://github.com/DarkWav/Specfile-Cloud/raw/master/vdhcoapp.spec
+wget https://raw.githubusercontent.com/DarkWav/Specfile-Cloud/master/vdhcoapp.spec
 clear
 echo "########################################################################################################"
 echo Welcome to my Video DownloadHelper Coapp installer for openSUSE and Fedora
